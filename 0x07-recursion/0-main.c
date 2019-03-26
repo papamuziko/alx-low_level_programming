@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-    _puts_recursion("Betty Holberton");
+    _puts_recursion("Betty Holberton - ITC");
     return (0);
 }
 
